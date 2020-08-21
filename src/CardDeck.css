@@ -1,0 +1,22 @@
+.CardDeck {
+	text-align: center;
+}
+
+.CardDeck-btn {
+	padding: 15px;
+	background-color: black;
+	color: white;
+	border-radius: 8px;
+	border: none;
+	margin: 10px;
+}
+
+.CardDeck-btn:hover {
+	cursor: pointer;
+	background-color: #444;
+}
+
+.CardDeck-btn:active,
+.CardDeck-btn:focus {
+	outline: none;
+}
